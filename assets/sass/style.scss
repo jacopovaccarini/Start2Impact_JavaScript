@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Saira:wght@300&display=swap");
+
+$primary: #d3d3d3; //lightgrey
+$secondary: #22b14c; //green
+$third: #b5e61d; //lemongreen
+$text: #222222; //darkgrey
+$reset: #ff0000; //red
+
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: "Saira", sans-serif;
+  color: #222222;
+  margin: auto;
+  padding: 0;
+  background-color: $primary;
+}
+
+.title {
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+.main{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 0;
+  margin: auto;
+}
+
+.counter {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  padding: 0;
+  margin: auto;
+}
+
+.less, .more {
+  font-size: 50px;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 3rem;
+  background-color: $secondary;
+  align-self: center;
+
+  :hover {
+    background-color: $third;
+  }
+
+  p {
+    margin: inherit;
+  }
+}
+
+.value {
+  font-size: 100px;
+  padding: 3rem;
+  margin: 5rem;
+}
+
+.reset {
+  font-size: 50px;
+  padding: 1rem;
+  margin: auto;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: $reset;
+
+  p {
+    margin: inherit;
+  }
+}
