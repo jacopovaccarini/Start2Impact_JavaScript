@@ -6,30 +6,29 @@
     <meta name="keywords" content="counter">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Contatore</title>
-    <link rel="icon" href="assets/img/logo.png"/>
+    <!--<link rel="icon" href="assets/img/logo.png"/>-->
     <link href="assets/css/style.css" rel="stylesheet" type="text/css"/>
-    <script src="assets/js/scripts.js"></script>
   </head>
   <body>
     <div class="title">
-      <h1>Contatore<h1>
+      <p>Contatore<p>
     </div>
-    <div class="main">
-      <div class="counter">
-        <div class="less">
-          <p>-</p>
-        </div>
-        <div class="value">
-          <p>0</p>
-        </div>
-        <div class="more">
-          <p>+</p>
-        </div>
+    <div class="counter">
+      <div class="less" counter-less>
+        <p>-</p>
       </div>
-      <div class="reset">
-        <p>AZZERA</p>
+      <div class="value">
+        <p counter-value>-</p>
+      </div>
+      <div class="more" counter-more>
+        <p>+</p>
       </div>
     </div>
+    <div class="reset" counter-reset>
+      <p>AZZERA</p>
+    </div>
+
+    <script src="assets/js/scripts.js"></script>
 
   </body>
 </html>

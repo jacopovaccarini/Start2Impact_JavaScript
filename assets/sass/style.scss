@@ -5,77 +5,106 @@ $secondary: #22b14c; //green
 $third: #b5e61d; //lemongreen
 $text: #222222; //darkgrey
 $reset: #ff0000; //red
-$resetbis: #7b002c; //bordeaux
+$resetbis: #ff7514; //orange
+
+*, *::after, *::before {
+  box-sizing: border-box;
+  font-family: "Saira", sans-serif;
+}
 
 html, body {
   height: 100%;
   width: 100%;
-  font-family: "Saira", sans-serif;
-  color: #222222;
   margin: auto;
   padding: 0;
   background-color: $primary;
   color: $text;
 }
 
-.title {
-  font-size: 2rem;
+body {
   display: flex;
+  flex-direction: column;
   justify-content: center;
+  align-items: center;
+  width: 50%;
 }
 
-.main{
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  padding: 0;
-  margin: auto;
+.title {
+  font-size: 100px;
 }
 
 .counter {
   display: flex;
-  justify-content: center;
   flex-direction: row;
-  padding: 0;
-  margin: auto;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
 }
 
 .less, .more {
-  font-size: 50px;
-  border: 1px solid black;
-  border-radius: 10px;
-  padding: 3rem;
+  border: 1.5px solid black;
+  border-radius: 40px;
+  padding: 4rem;
+  margin: 0;
   background-color: $secondary;
-  align-self: center;
 
   &:hover {
     background-color: $third;
   }
 
   p {
-    margin: inherit;
+    font-size: 75px;
+    padding: 0;
+    margin: auto;
+    width: 50px;
+    text-align: center;
   }
 }
 
 .value {
-  font-size: 100px;
-  padding: 3rem;
-  margin: 5rem;
+  padding: 4rem;
+  margin: 0;
+
+  p {
+    font-size: 100px;
+    padding: 0;
+    margin: auto;
+    width: 200px;
+    text-align: center;
+  }
 }
 
 .reset {
-  font-size: 50px;
-  padding: 1rem;
-  margin: auto;
   border: 1px solid black;
-  border-radius: 10px;
+  border-radius: 40px;
+  padding: 1rem 4rem 1rem 4rem;
+  margin: 4rem;
   background-color: $reset;
+  width: 100%;
 
   &:hover {
     background-color: $resetbis;
   }
 
   p {
-    margin: inherit;
+    font-size: 50px;
+    padding: 0;
+    margin: auto;
+    text-align: center;
+  }
+}
+
+
+@media (max-width: 1380px) {
+  .counter {
+    display: block;
+  }
+
+  .less, .more {
+    padding: 0;
+  }
+
+  .value {
+    padding: 0;
   }
 }
