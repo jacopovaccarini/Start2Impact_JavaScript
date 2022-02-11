@@ -12,7 +12,7 @@ number.innerHTML = counter;
 less.onclick = function() {
   if (counter == 0) {
     Swal.fire({
-      title: "Il contatore è a zero",
+      title: "Il contatore è già a zero",
       showCancelButton: false,
       confirmButtonColor: "#22b14c"
     });
@@ -30,7 +30,7 @@ more.onclick = function() {
 reset.onclick = function() {
   if (counter == 0) {
     Swal.fire({
-      title: "Il contatore è a zero",
+      title: "Il contatore è già a zero",
       showCancelButton: false,
       confirmButtonColor: "#22b14c"
     });
