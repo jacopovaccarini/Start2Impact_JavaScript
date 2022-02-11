@@ -67,7 +67,7 @@ body {
   font-size: 100px;
   padding: 0;
   margin: auto;
-  width: 300px;
+  width: 100%;
   text-align: center;
 }
 
@@ -128,6 +128,9 @@ body {
 }
 
 @media (max-width: 1380px) {
+  body {
+    width: 60%;
+  }
   .counter {
     display: block;
   }
@@ -137,12 +140,24 @@ body {
 }
 
 @media (max-width: 1064px) {
+  body {
+    width: 70%;
+  }
+  .title p {
+    font-size: 90px;
+  }
   .reset p, .config p {
     font-size: 30px;
   }
 }
 
 @media (max-width: 828px) {
+  body {
+    width: 80%;
+  }
+  .title p {
+    font-size: 80px;
+  }
   .reset p, .config p {
     font-size: 20px;
   }
