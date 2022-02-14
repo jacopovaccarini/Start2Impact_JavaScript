@@ -9,6 +9,7 @@ let number = document.querySelector('[counter-value]');
 let counter = 0;
 number.innerHTML = counter;
 
+
 less.onclick = function() {
   if (counter == 0) {
     Swal.fire({

@@ -1,15 +1,22 @@
 @import url("https://fonts.googleapis.com/css2?family=Saira:wght@300&display=swap");
 
 $primary: #d3d3d3; //lightgrey
-$secondary: #22b14c; //green
-$third: #b5e61d; //lemongreen
+$counter: #22b14c; //green
+$counter_hover: #b5e61d; //lemongreen
+$button: #ff0000; //red
+$button_hover: #ff7514; //orange
 $text: #222222; //darkgrey
-$reset: #ff0000; //red
-$resetbis: #ff7514; //orange
+
 
 *, *::after, *::before {
   box-sizing: border-box;
   font-family: "Saira", sans-serif;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 
 html {
@@ -40,7 +47,7 @@ body {
   }
 }
 
-.counter {
+.counter, .button {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -55,10 +62,10 @@ body {
   border-radius: 40px;
   padding: 4rem;
   margin: 0;
-  background-color: $secondary;
+  background-color: $counter;
 
   &:hover {
-    background-color: $third;
+    background-color: $counter_hover;
     cursor: pointer;
   }
 
@@ -81,15 +88,7 @@ body {
   }
 }
 
-.button {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
-  width: 100%;
-}
-
-.reset {
+.reset, .config {
   display: flex;
   align-items: center;
   border: 1px solid black;
@@ -97,35 +96,11 @@ body {
   padding: 1rem;
   margin-top: 4rem;
   margin-bottom: 4rem;
-  background-color: $reset;
+  background-color: $button;
   width: 49%;
 
   &:hover {
-    background-color: $resetbis;
-    cursor: pointer;
-  }
-
-  p {
-    font-size: 40px;
-    padding: 0;
-    margin: auto;
-    text-align: center;
-  }
-}
-
-.config {
-  display: flex;
-  align-items: center;
-  border: 1px solid black;
-  border-radius: 40px;
-  padding: 1rem;
-  margin-top: 4rem;
-  margin-bottom: 4rem;
-  background-color: $reset;
-  width: 49%;
-
-  &:hover {
-    background-color: $resetbis;
+    background-color: $button_hover;
     cursor: pointer;
   }
 
