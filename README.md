@@ -38,14 +38,14 @@
   <summary>Sommario</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Informazioni sul progetto</a>
+      <a href="#informazioni-sul-progetto">Informazioni sul progetto</a>
       <ul>
-        <li><a href="#built-with">Sviluppato con</a></li>
+        <li><a href="#sviluppato-con">Sviluppato con</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Come usare il counter</a></li>
+    <li><a href="#come-usare-il-counter">Come usare il counter</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contact">Contatti</a></li>
+    <li><a href="#contatti">Contatti</a></li>
   </ol>
 </details>
 
