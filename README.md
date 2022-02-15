@@ -94,7 +94,7 @@
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Configurare il pulsante di azzeramento
+- [x] Implementare il pulsante di azzeramento
 - [x] Possibilità di impostare il valore di partenza
 - [ ] Possibilità di configurare il valore di avanzamento
 
