@@ -18,7 +18,7 @@
 <h2 align="center">Contatore</h2>
 
   <p align="center">
-    Semplice applicazione che funziona come un counter
+    Applicazione web che funziona come un counter
     <br />
     <a href="https://github.com/jacopovaccarini/Start2Impact_JavaScript"><strong>Esplora i documenti »</strong></a>
     <br />
@@ -54,12 +54,11 @@
 <!-- SUL PROGETTO -->
 ## Informazioni sul progetto
 
-[![Schermata del progetto][screenshot-progetto]](https://jacopovaccarini.github.io/Start2Impact_JavaScript/)
+[![Schermata del progetto][screenshot-progetto1]](https://jacopovaccarini.github.io/Start2Impact_JavaScript/)
 
-<p>Questo progetto consiste in una semplice applicazione che funziona come un counter. L'applicazione è costituita da quattro pulsanti, due per aumentare e diminuire il valore del counter, uno per azzerare il counter e l'ultimo per poter impostare il valore iniziale del counter.</p>
+<p>Questo progetto consiste in un'applicazione web che funziona come un counter. L'applicazione è costituita da quattro pulsanti, due per aumentare e diminuire il valore del counter, uno per azzerare il counter e l'ultimo per poter impostare il valore iniziale del counter.</p>
 
 <p align="right">(<a href="#top">torna all'inizio</a>)</p>
-
 
 
 ### Sviluppato con
@@ -76,8 +75,13 @@
 <!-- ESEMPI DI UTILIZZO -->
 ## Come usare il counter
 
-<p>L'utilizzo di questo counter è abbastanza semplice. Con il pulsante "+" si aumenta il valore del counter, mentre con il pulsante "-" si diminuisce il valore del counter e se questo è già a zero uscirà un messaggio di informazione. Con il pulsante "AZZERA" è possibile riportare a zero il counter e se questo è già azzerato uscirà un messaggio di informazione. Infine con il pulsante "CONFIGURA" è possibile impostare il numero di partenza per il counter.</p>
+<p>L'utilizzo di questo counter è abbastanza semplice. Con il pulsante "+" si aumenta il valore del counter, mentre con il pulsante "-" si diminuisce il valore del counter. Con il pulsante "AZZERA" è possibile riportare a zero il counter. Infine con il pulsante "CONFIGURA" è possibile impostare il numero di partenza per il counter.</p>
 
+[![Schermata messaggio][screenshot-progetto2]](https://jacopovaccarini.github.io/Start2Impact_JavaScript/)
+
+<p>Nal caso in cui il counter fosse già a zero uscirà un messaggio di info per comunicare che non è possibile diminuire o azzerare il counter perchè questo è già a zero.</p>
+
+[![Schermata messaggio][screenshot-progetto3]](https://jacopovaccarini.github.io/Start2Impact_JavaScript/)
 
 <p align="right">(<a href="#top">torna all'inizio</a>)</p>
 
@@ -116,4 +120,6 @@ Collegamento al progetto: [https://github.com/jacopovaccarini/Start2Impact_JavaS
 [issues-URL]: https://github.com/jacopovaccarini/Start2Impact_JavaScript/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jacopo-vaccarini
-[screenshot-progetto]: /assets/img/screenshot.png
+[screenshot-progetto1]: /assets/img/screenshot1.png
+[screenshot-progetto2]: /assets/img/screenshot2.png
+[screenshot-progetto3]: /assets/img/screenshot3.png
