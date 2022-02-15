@@ -45,8 +45,8 @@
         <li><a href="#built-with">Sviluppato con</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Utilizzo</a></li>
-    <li><a href="#roadmap">Tabella di marcia</a></li>
+    <li><a href="#usage">Come usare il counter</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contact">Contatti</a></li>
   </ol>
 </details>
@@ -75,9 +75,9 @@
 
 
 <!-- ESEMPI DI UTILIZZO -->
-## Utilizzo
+## Come usare il counter
 
-<p>L'utilizzo di questo counter è abbastanza semplice. Con il pulsante "+" si aumenta il valore del counter, mentre con il pulsante "-" si diminuisce il valore del counter e se questo è già a zero uscirà un messaggio di informazione. Con il pulsante "AZZERA" è possibile riportare a zero il counter, se questo è già azzerato uscirà un messaggio di informazione. Infine con il pulsante "CONFIGURA" è possibile impostare il numero di partenza per il counter</p>
+<p>L'utilizzo di questo counter è abbastanza semplice. Con il pulsante "+" si aumenta il valore del counter, mentre con il pulsante "-" si diminuisce il valore del counter e se questo è già a zero uscirà un messaggio di informazione. Con il pulsante "AZZERA" è possibile riportare a zero il counter e se questo è già azzerato uscirà un messaggio di informazione. Infine con il pulsante "CONFIGURA" è possibile impostare il numero di partenza per il counter.</p>
 
 
 <p align="right">(<a href="#top">torna all'inizio</a>)</p>
@@ -85,7 +85,7 @@
 
 
 <!-- ROADMAP -->
-## Tabella di marcia
+## Roadmap
 
 - [x] Configurare il pulsante di azzeramento
 - [x] Configurare il pulsante per impostare il numero di partenza
@@ -100,7 +100,7 @@ Vedere [problemi aperti](https://github.com/jacopovaccarini/Start2Impact_JavaScr
 <!-- CONTATTO -->
 ## Contatto
 
-Jacopo Vaccarini - [jacopovaccarini@gmail.com](jacopovaccarini@gmail.com)
+Jacopo Vaccarini - [jacopovaccarini@gmail.com](mailto:jacopovaccarini@gmail.com)
 
 Collegamento al progetto: [https://github.com/jacopovaccarini/Start2Impact_JavaScript](https://github.com/jacopovaccarini/Start2Impact_JavaScript)
 
