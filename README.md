@@ -54,7 +54,7 @@
 <!-- SUL PROGETTO -->
 ## Informazioni sul progetto
 
-[![screenshot-progetto][Schermata del prodotto]](https://jacopovaccarini.github.io/Start2Impact_JavaScript/)
+[![Schermata del progetto][screenshot-progetto]](https://jacopovaccarini.github.io/Start2Impact_JavaScript/)
 
 <p>Questo progetto consiste in una semplice applicazione che funziona come un counter. L'applicazione è costituita da quattro pulsanti, due per aumentare e diminuire il valore del counter, uno per azzerare il counter e l'ultimo per poter impostare il valore iniziale del counter.</p>
 
