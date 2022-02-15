@@ -120,6 +120,7 @@ body {
 @media (max-width: 1380px) {
   body {
     width: 60%;
+    height: 95%;
   }
 
   .counter {
@@ -142,6 +143,12 @@ body {
     }
   }
 
+  .value {
+    p {
+      font-size: 90px;
+    }
+  }
+
   .reset, .config {
     p {
       font-size: 30px;
@@ -159,9 +166,64 @@ body {
       font-size: 80px;
     }
   }
+
+  .value {
+    p {
+      font-size: 80px;
+    }
+  }
+
   .reset, .config {
     p {
       font-size: 20px;
+    }
+  }
+}
+
+@media (max-width: 475px) {
+  body {
+    width: 80%;
+  }
+
+  .title {
+    p {
+      font-size: 65px;
+    }
+  }
+
+  .less, .more {
+    p {
+      font-size: 65px;
+    }
+  }
+
+  .value {
+    p {
+      font-size: 70px;
+    }
+  }
+
+  .reset, .config {
+    p {
+      font-size: 18px;
+    }
+  }
+}
+
+@media (max-width: 390px) {
+  body {
+    width: 90%;
+  }
+
+  .title {
+    p {
+      font-size: 55px;
+    }
+  }
+  
+  .reset, .config {
+    p {
+      font-size: 15px;
     }
   }
 }
