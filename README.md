@@ -75,13 +75,15 @@
 <!-- ESEMPI DI UTILIZZO -->
 ## Come usare il counter
 
-<p>L'utilizzo di questo counter è abbastanza semplice. Con il pulsante "+" si aumenta il valore del counter, mentre con il pulsante "-" si diminuisce il valore del counter. Con il pulsante "AZZERA" è possibile riportare a zero il counter. Infine con il pulsante "CONFIGURA" è possibile impostare il numero di partenza per il counter.</p>
+<p>L'utilizzo di questo counter è abbastanza semplice.</p>
+<p>Con il pulsante "+" si può aumentare il valore del counter, mentre con il pulsante "-" si diminuisce il valore del counter (solo se questo non è zero, perchè il counter non accetta valori negativi).</p>
+<p>Con il pulsante "AZZERA" è possibile riportare il valore del counter a zero. Infine con il pulsante "CONFIGURA" è possibile impostare il valore di partenza per il counter; uscirà un messaggio dove nella casella di input è possibile inserire un numero maggiore di zero.</p>
 
-[![Schermata messaggio][screenshot-progetto2]](https://jacopovaccarini.github.io/Start2Impact_JavaScript/)
+[![Schermata messaggio][screenshot-progetto3]](https://jacopovaccarini.github.io/Start2Impact_JavaScript/)
 
 <p>Nal caso in cui il counter fosse già a zero uscirà un messaggio di info per comunicare che non è possibile diminuire o azzerare il counter perchè questo è già a zero.</p>
 
-[![Schermata messaggio][screenshot-progetto3]](https://jacopovaccarini.github.io/Start2Impact_JavaScript/)
+[![Schermata messaggio][screenshot-progetto2]](https://jacopovaccarini.github.io/Start2Impact_JavaScript/)
 
 <p align="right">(<a href="#top">torna all'inizio</a>)</p>
 
