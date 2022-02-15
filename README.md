@@ -68,6 +68,7 @@
 * [CSS](https://www.w3.org/TR/CSS/)
 * [Sass](https://sass-lang.com/)
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript?retiredLocale=it)
+* [sweetalert2](https://sweetalert2.github.io/)
 
 <p align="right">(<a href="#top">torna all'inizio</a>)</p>
 
@@ -107,7 +108,6 @@ Collegamento al progetto: [https://github.com/jacopovaccarini/Start2Impact_JavaS
 
 
 <!-- LINK E IMMAGINI MARKDOWN -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/jacopovaccarini/Start2Impact_JavaScript.svg?style=for-the-badge
 [contributors-url]: https://github.com/jacopovaccarini/Start2Impact_JavaScript/graphs/contributors
 [stelle-scudo]: https://img.shields.io/github/stars/jacopovaccarini/Start2Impact_JavaScript.svg?style=for-the-badge
