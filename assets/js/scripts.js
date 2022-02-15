@@ -1,12 +1,37 @@
 //per nascondere la barra di scorrimento laterale
 document.body.style.overflow = "hidden";
 
+
+//creazione elementi del counter
+let div_counter = document.querySelector('[counter]');
+
+let div_less = document.createElement('div');
+let att_less = document.createAttribute('counter-less');
+div_less.className = "less";
+div_less.setAttributeNode(att_less);
+div_less.innerHTML = "<p>-</p>";
+div_counter.append(div_less)
+
+let div_value = document.createElement('div');
+div_value.className = "value";
+div_value.innerHTML = "<p counter-value>-</p>";
+div_counter.append(div_value)
+
+let div_more = document.createElement('div');
+let att_more = document.createAttribute('counter-more');
+div_more.className = "more";
+div_more.setAttributeNode(att_more);
+div_more.innerHTML = "<p>+</p>";
+div_counter.append(div_more);
+
+
 //variabili oggetti documento
 let less = document.querySelector('[counter-less]');
 let more = document.querySelector('[counter-more]');
-let reset = document.querySelector('[counter-reset]');
-let config = document.querySelector('[counter-config]');
 let number = document.querySelector('[counter-value]');
+let reset = document.querySelector('[button-reset]');
+let config = document.querySelector('[button-config]');
+
 
 //impostazione iniziale del counter a zero
 let counter = 0;
