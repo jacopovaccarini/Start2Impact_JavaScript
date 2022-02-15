@@ -46,6 +46,7 @@
     <li><a href="#come-usare-il-counter">Come usare il counter</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contatti">Contatti</a></li>
+    <li><a href="#ringraziamenti">Ringraziamenti</a></li>
   </ol>
 </details>
 
@@ -54,7 +55,7 @@
 <!-- SUL PROGETTO -->
 ## Informazioni sul progetto
 
-[![Schermata del progetto][screenshot-progetto1]](https://jacopovaccarini.github.io/Start2Impact_JavaScript/)
+[![Schermata applicazione][screenshot-progetto1]](https://jacopovaccarini.github.io/Start2Impact_JavaScript/)
 
 <p>Questo progetto consiste in un'applicazione web che funzioni come un counter. L'applicazione è costituita da quattro pulsanti, due verdi per aumentare e diminuire il valore del counter e due rossi, uno per azzerare il counter e un altro per poter impostare il valore iniziale del counter.</p>
 
@@ -77,7 +78,7 @@
 ## Come usare il counter
 
 <p>Con il pulsante "+" si può aumentare il valore del counter, mentre con il pulsante "-" si diminuisce il valore del counter (solo se questo non è zero, perchè il counter non accetta valori negativi).</p>
-<p>Con il pulsante "AZZERA" è possibile riportare il valore del counter a zero. Infine con il pulsante "CONFIGURA" è possibile impostare il valore di partenza per il counter; uscirà un messaggio dove nella casella di input è possibile inserire un numero maggiore di zero.</p>
+<p>Con il pulsante "AZZERA" è possibile riportare il valore del counter a zero. Invece con il pulsante "CONFIGURA" è possibile impostare il valore di partenza per il counter: uscirà un messaggio dove nella casella di input è possibile inserire un numero maggiore o uguale a zero.</p>
 
 [![Schermata messaggio][screenshot-progetto3]](https://jacopovaccarini.github.io/Start2Impact_JavaScript/)
 
@@ -112,6 +113,14 @@ Collegamento al progetto: [https://github.com/jacopovaccarini/Start2Impact_JavaS
 <p align="right">(<a href="#top">torna all'inizio</a>)</p>
 
 
+
+<!-- RINGRAZIAMENTI -->
+## Ringraziamenti
+
+* [sweetalert2](https://sweetalert2.github.io/)
+* [Img Shields](https://shields.io)
+
+<p align="right">(<a href="#top">torna all'inizio</a>)</p>
 
 <!-- LINK E IMMAGINI MARKDOWN -->
 [contributors-shield]: https://img.shields.io/github/contributors/jacopovaccarini/Start2Impact_JavaScript.svg?style=for-the-badge
