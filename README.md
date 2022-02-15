@@ -91,6 +91,8 @@ _Per ulteriori esempi, fare riferimento alla [Documentazione](https://example.co
 <!-- ROADMAP -->
 ## Tabella di marcia
 
+- [x] Configurare il pulsante di azzeramento
+- [x] Configurare il pulsante per impostare il numero di partenza
 - [ ] Configurare il numero d'avanzamento
 
 Vedere [problemi aperti](https://github.com/jacopovaccarini/Start2Impact_JavaScript/issues) per un elenco completo delle funzionalità proposte (e dei problemi noti).
