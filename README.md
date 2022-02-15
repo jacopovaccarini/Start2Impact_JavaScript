@@ -42,7 +42,7 @@
     <li>
       <a href="#about-the-project">Informazioni sul progetto</a>
       <ul>
-        <li><a href="#built-with">Costruito con</a></li>
+        <li><a href="#built-with">Sviluppato con</a></li>
       </ul>
     </li>
     <li><a href="#usage">Utilizzo</a></li>
@@ -58,14 +58,13 @@
 
 [![Schermata del nome del prodotto][Schermata del prodotto]](https://jacopovaccarini.github.io/Start2Impact_JavaScript/)
 
-Questo progetto consiste in una semplice applicazione che funziona come un counter.
-L'applicazione è costituita da quattro pulsanti, due per aumentare e diminuire il valore del counter, uno per azzerare il counter e l'ultimo per poter impostare il valore iniziale del counter.
+<p>Questo progetto consiste in una semplice applicazione che funziona come un counter. L'applicazione è costituita da quattro pulsanti, due per aumentare e diminuire il valore del counter, uno per azzerare il counter e l'ultimo per poter impostare il valore iniziale del counter.</p>
 
 <p align="right">(<a href="#top">torna all'inizio</a>)</p>
 
 
 
-### Costruito con
+### Sviluppato con
 
 * [HTML](https://html.spec.whatwg.org/)
 * [CSS](https://www.w3.org/TR/CSS/)
@@ -78,7 +77,7 @@ L'applicazione è costituita da quattro pulsanti, due per aumentare e diminuire 
 <!-- ESEMPI DI UTILIZZO -->
 ## Utilizzo
 
-Per u
+<p>L'utilizzo di questo counter è abbastanza semplice. Con il pulsante "+" si aumenta il valore del counter, mentre con il pulsante "-" si diminuisce il valore del counter e se questo è già a zero uscirà un messaggio di informazione. Con il pulsante "AZZERA" è possibile riportare a zero il counter, se questo è già azzerato uscirà un messaggio di informazione. Infine con il pulsante "CONFIGURA" è possibile impostare il numero di partenza per il counter</p>
 
 
 <p align="right">(<a href="#top">torna all'inizio</a>)</p>
