@@ -47,10 +47,7 @@
     </li>
     <li><a href="#usage">Utilizzo</a></li>
     <li><a href="#roadmap">Tabella di marcia</a></li>
-    <li><a href="#contributing">Contributo</a></li>
-    <li><a href="#license">Licenza</a></li>
     <li><a href="#contact">Contatti</a></li>
-    <li><a href="#acknowledgements">Ringraziamenti</a></li>
   </ol>
 </details>
 
@@ -61,7 +58,8 @@
 
 [![Schermata del nome del prodotto][Schermata del prodotto]](https://jacopovaccarini.github.io/Start2Impact_JavaScript/)
 
-Ecco un modello vuoto per iniziare: per evitare di riscrivere troppe informazioni. Effettua una ricerca e sostituisci con il tuo editor di testo per quanto segue: `jacopovaccarini`, `Start2Impact_JavaScript`, `linkedin_username`, `email`
+Questo progetto consiste in una semplice applicazione che funziona come un counter.
+L'applicazione è costituita da quattro pulsanti, due per aumentare e diminuire il valore del counter, uno per azzerare il counter e l'ultimo per poter impostare il valore iniziale del counter.
 
 <p align="right">(<a href="#top">torna all'inizio</a>)</p>
 
@@ -80,9 +78,8 @@ Ecco un modello vuoto per iniziare: per evitare di riscrivere troppe informazion
 <!-- ESEMPI DI UTILIZZO -->
 ## Utilizzo
 
-Usa questo spazio per mostrare esempi utili di come può essere utilizzato un progetto. Screenshot aggiuntivi, esempi di codice e demo funzionano bene in questo spazio. Puoi anche collegarti a più risorse.
+Per u
 
-_Per ulteriori esempi, fare riferimento alla [Documentazione](https://example.com)_
 
 <p align="right">(<a href="#top">torna all'inizio</a>)</p>
 
@@ -101,37 +98,10 @@ Vedere [problemi aperti](https://github.com/jacopovaccarini/Start2Impact_JavaScr
 
 
 
-<!-- CONTRIBUTO -->
-## Contribuire
-
-I contributi sono ciò che rende la comunità open source un posto così straordinario per imparare, ispirare e creare. Tutti i contributi che fai sono **molto apprezzati**.
-
-Se hai un suggerimento che lo renderebbe migliore, esegui il fork del repository e crea una richiesta pull. Puoi anche aprire semplicemente un problema con il tag "miglioramento".
-Non dimenticare di dare una stella al progetto! Grazie ancora!
-
-1. Biforca il progetto
-2. Crea il tuo ramo di funzionalità (`git checkout -b feature/AmazingFeature`)
-3. Conferma le modifiche (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Aprire una richiesta pull
-
-<p align="right">(<a href="#top">torna all'inizio</a>)</p>
-
-
-
-<!-- LICENZA -->
-## Licenza
-
-Distribuito con licenza MIT. Vedere `LICENSE.txt` per ulteriori informazioni.
-
-<p align="right">(<a href="#top">torna all'inizio</a>)</p>
-
-
-
 <!-- CONTATTO -->
 ## Contatto
 
-Jacopo Vaccarini - jacopovaccarini@gmail.com
+Jacopo Vaccarini - [jacopovaccarini@gmail.com](jacopovaccarini@gmail.com)
 
 Collegamento al progetto: [https://github.com/jacopovaccarini/Start2Impact_JavaScript](https://github.com/jacopovaccarini/Start2Impact_JavaScript)
 
