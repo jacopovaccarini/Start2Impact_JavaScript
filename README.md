@@ -72,6 +72,7 @@
 <p align="right">(<a href="#top">torna all'inizio</a>)</p>
 
 
+
 <!-- ESEMPI DI UTILIZZO -->
 ## Come usare il counter
 
@@ -122,6 +123,6 @@ Collegamento al progetto: [https://github.com/jacopovaccarini/Start2Impact_JavaS
 [issues-URL]: https://github.com/jacopovaccarini/Start2Impact_JavaScript/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jacopo-vaccarini
-[screenshot-progetto1]: /assets/img/screenshot1.png
-[screenshot-progetto2]: /assets/img/screenshot2.png
-[screenshot-progetto3]: /assets/img/screenshot3.png
+[screenshot-progetto1]: assets/img/screenshot1.png
+[screenshot-progetto2]: assets/img/screenshot2.png
+[screenshot-progetto3]: assets/img/screenshot3.png
