@@ -103,7 +103,7 @@ Vedere la pagina [issues](https://github.com/jacopovaccarini/Start2Impact_JavaSc
 
 
 <!-- CONTATTO -->
-## Contatto
+## Contatti
 
 Jacopo Vaccarini - [jacopovaccarini@gmail.com](mailto:jacopovaccarini@gmail.com)
 
