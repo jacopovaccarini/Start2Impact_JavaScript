@@ -3,10 +3,8 @@
 
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-scudo]][forks-url]
 [![Stargazers][stelle-scudo]][stelle-url]
 [![Problemi][issues-shield]][issues-url]
-[![Licenza MIT][scudo-licenza]][URL-licenza]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -56,11 +54,7 @@
 <!-- SUL PROGETTO -->
 ## Informazioni sul progetto
 
-<a href="https://github.com/jacopovaccarini/Start2Impact_JavaScript">
-  <img src="assets/img/logo.png" alt="Logo" width="80" height="80">
-</a>
-
-[![screenshot del progetto][Schermata del prodotto]](https://jacopovaccarini.github.io/Start2Impact_JavaScript/)
+[![screenshot-progetto][Schermata del prodotto]](https://jacopovaccarini.github.io/Start2Impact_JavaScript/)
 
 <p>Questo progetto consiste in una semplice applicazione che funziona come un counter. L'applicazione è costituita da quattro pulsanti, due per aumentare e diminuire il valore del counter, uno per azzerare il counter e l'ultimo per poter impostare il valore iniziale del counter.</p>
 
@@ -122,4 +116,4 @@ Collegamento al progetto: [https://github.com/jacopovaccarini/Start2Impact_JavaS
 [issues-URL]: https://github.com/jacopovaccarini/Start2Impact_JavaScript/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jacopo-vaccarini
-[screenshot del progetto]: assets/img/screenshot.png
+[screenshot-progetto]: /assets/img/screenshot.png
