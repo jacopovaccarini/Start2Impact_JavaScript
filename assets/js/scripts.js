@@ -77,9 +77,9 @@ config.onclick = function() {
     confirmButtonColor: "#22b14c",
     cancelButtonColor: "#ff0000",
     inputValidator: (value) => {
-      if (!value) { //controllo se il valore inserito è un numero
+      if (!value) { //controllo se il campo input è vuoto
         return 'Devi inserire un numero!'
-      } else if (Number(value) < 0) { // controllo se il numero inserito è maggiore o uguale a zero
+      } else if (Number(value) < 0) { //controllo se il numero inserito è maggiore o uguale a zero
         return 'Devi inserire un numero maggiore o uguale a zero!'
       } else {
         counter = Number(value);
