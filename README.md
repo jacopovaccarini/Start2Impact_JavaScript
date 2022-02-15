@@ -96,9 +96,9 @@
 
 - [x] Configurare il pulsante di azzeramento
 - [x] Possibilità di impostare il valore di partenza
-- [ ] Possibilità di configurare il valore d'avanzamento
+- [ ] Possibilità di configurare il valore di avanzamento
 
-Vedere la pagina [issues](https://github.com/jacopovaccarini/Start2Impact_JavaScript/issues) per un elenco completo delle funzionalità proposte (e dei problemi noti).
+Andare sulla pagina [issues](https://github.com/jacopovaccarini/Start2Impact_JavaScript/issues) per un elenco completo delle funzionalità proposte (e dei problemi noti).
 
 <p align="right">(<a href="#top">torna all'inizio</a>)</p>
 
