@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Saira:wght@300&display=swap");
 
 $primary: #d3d3d3; //lightgrey
+$secondary: #FFFFFF; //white
 $counter: #22b14c; //green
 $counter_hover: #b5e61d; //lemongreen
 $button: #ff0000; //red
@@ -32,8 +33,11 @@ body {
   justify-content: center;
   align-items: center;
   margin: auto;
-  padding: 0;
+  padding: 1rem;
   width: 50%;
+  background-color: $secondary;
+  border: 1px solid $counter;
+  border-radius: 40px;
 }
 
 .title {

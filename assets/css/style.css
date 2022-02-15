@@ -23,8 +23,11 @@ body {
   justify-content: center;
   align-items: center;
   margin: auto;
-  padding: 0;
+  padding: 1rem;
   width: 50%;
+  background-color: #FFFFFF;
+  border: 1px solid #22b14c;
+  border-radius: 40px;
 }
 
 .title {
