@@ -2,12 +2,10 @@
 
 
 <!-- PROJECT SHIELDS -->
-<div align="center">
-  [![Contributors][contributors-shield]][contributors-url]
-  [![Stargazers][stelle-scudo]][stelle-url]
-  [![Problemi][issues-shield]][issues-url]
-  [![LinkedIn][linkedin-shield]][linkedin-url]
-</div>
+[![Contributors][contributors-shield]][contributors-url]
+[![Stargazers][stelle-scudo]][stelle-url]
+[![Problemi][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!-- LOGO DEL PROGETTO -->
