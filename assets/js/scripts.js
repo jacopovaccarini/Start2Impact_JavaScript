@@ -6,9 +6,7 @@ document.body.style.overflow = "hidden";
 let div_counter = document.querySelector('[counter]');
 
 let div_less = document.createElement('div');
-let att_less = document.createAttribute('counter-less');
 div_less.className = "less";
-div_less.setAttributeNode(att_less);
 div_less.innerHTML = "<p>-</p>";
 div_counter.append(div_less)
 
@@ -18,16 +16,12 @@ div_value.innerHTML = "<p counter-value>-</p>";
 div_counter.append(div_value)
 
 let div_more = document.createElement('div');
-let att_more = document.createAttribute('counter-more');
 div_more.className = "more";
-div_more.setAttributeNode(att_more);
 div_more.innerHTML = "<p>+</p>";
 div_counter.append(div_more);
 
 
 //variabili oggetti documento
-let less = document.querySelector('[counter-less]');
-let more = document.querySelector('[counter-more]');
 let number = document.querySelector('[counter-value]');
 let reset = document.querySelector('[button-reset]');
 let config = document.querySelector('[button-config]');
@@ -38,7 +32,7 @@ let counter = 0;
 number.innerHTML = counter;
 
 //click sul pulsante "-"
-less.onclick = function() {
+div_less.onclick = function() {
   if (counter == 0) {
     Swal.fire({ //messaggio avviso contatore già a zero
       title: "Il contatore è già a zero",
@@ -52,7 +46,7 @@ less.onclick = function() {
 }
 
 //click sul pulsante "+"
-more.onclick = function() {
+div_more.onclick = function() {
   counter += 1;
   number.innerHTML = counter;
 }
