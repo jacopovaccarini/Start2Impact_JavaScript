@@ -56,7 +56,7 @@
 
 [![Schermata del progetto][screenshot-progetto1]](https://jacopovaccarini.github.io/Start2Impact_JavaScript/)
 
-<p>Questo progetto consiste in un'applicazione web che funzioni come un counter. L'applicazione è costituita da quattro pulsanti, due per aumentare e diminuire il valore del counter, uno per azzerare il counter e l'ultimo per poter impostare il valore iniziale del counter.</p>
+<p>Questo progetto consiste in un'applicazione web che funzioni come un counter. L'applicazione è costituita da quattro pulsanti, due verdi per aumentare e diminuire il valore del counter e due rossi, uno per azzerare il counter e un altro per poter impostare il valore iniziale del counter.</p>
 
 <p align="right">(<a href="#top">torna all'inizio</a>)</p>
 
@@ -76,7 +76,6 @@
 <!-- ESEMPI DI UTILIZZO -->
 ## Come usare il counter
 
-<p>L'utilizzo di questo counter è abbastanza semplice.</p>
 <p>Con il pulsante "+" si può aumentare il valore del counter, mentre con il pulsante "-" si diminuisce il valore del counter (solo se questo non è zero, perchè il counter non accetta valori negativi).</p>
 <p>Con il pulsante "AZZERA" è possibile riportare il valore del counter a zero. Infine con il pulsante "CONFIGURA" è possibile impostare il valore di partenza per il counter; uscirà un messaggio dove nella casella di input è possibile inserire un numero maggiore di zero.</p>
 
