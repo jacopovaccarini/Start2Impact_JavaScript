@@ -3,7 +3,8 @@
 
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Stargazers][stelle-scudo]][stelle-url]
+[![Stelle][stelle-shield]][stelle-url]
+[![Visitatori][watchers-shield]][watchers-url]
 [![Problemi][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -125,8 +126,10 @@ Collegamento al progetto: [https://github.com/jacopovaccarini/Start2Impact_JavaS
 <!-- LINK E IMMAGINI MARKDOWN -->
 [contributors-shield]: https://img.shields.io/github/contributors/jacopovaccarini/Start2Impact_JavaScript.svg?style=for-the-badge
 [contributors-url]: https://github.com/jacopovaccarini/Start2Impact_JavaScript/graphs/contributors
-[stelle-scudo]: https://img.shields.io/github/stars/jacopovaccarini/Start2Impact_JavaScript.svg?style=for-the-badge
+[stelle-shield]: https://img.shields.io/github/stars/jacopovaccarini/Start2Impact_JavaScript.svg?style=for-the-badge
 [stelle-URL]: https://github.com/jacopovaccarini/Start2Impact_JavaScript/stargazers
+[watchers-shield]: https://img.shields.io/github/watchers/jacopovaccarini/Start2Impact_JavaScript.svg?style=for-the-badge
+[watchers-url]: https://github.com/jacopovaccarini/Start2Impact_JavaScript/watchers
 [issues-shield]: https://img.shields.io/github/issues/jacopovaccarini/Start2Impact_JavaScript.svg?style=for-the-badge
 [issues-URL]: https://github.com/jacopovaccarini/Start2Impact_JavaScript/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
