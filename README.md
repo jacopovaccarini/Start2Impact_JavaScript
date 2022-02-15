@@ -18,7 +18,7 @@
 <h2 align="center">Contatore</h2>
 
   <p align="center">
-    Applicazione web che funziona come un counter
+    Applicazione web che funzioni come un counter
     <br />
     <a href="https://github.com/jacopovaccarini/Start2Impact_JavaScript"><strong>Esplora i documenti »</strong></a>
     <br />
@@ -56,7 +56,7 @@
 
 [![Schermata del progetto][screenshot-progetto1]](https://jacopovaccarini.github.io/Start2Impact_JavaScript/)
 
-<p>Questo progetto consiste in un'applicazione web che funziona come un counter. L'applicazione è costituita da quattro pulsanti, due per aumentare e diminuire il valore del counter, uno per azzerare il counter e l'ultimo per poter impostare il valore iniziale del counter.</p>
+<p>Questo progetto consiste in un'applicazione web che funzioni come un counter. L'applicazione è costituita da quattro pulsanti, due per aumentare e diminuire il valore del counter, uno per azzerare il counter e l'ultimo per poter impostare il valore iniziale del counter.</p>
 
 <p align="right">(<a href="#top">torna all'inizio</a>)</p>
 
